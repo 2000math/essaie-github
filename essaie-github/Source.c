@@ -3,7 +3,7 @@
 
 int main(void)
 {
-	printf("sup bby gurl\n");
+	printf("new phone\n");
 
 	return 0;
 }
